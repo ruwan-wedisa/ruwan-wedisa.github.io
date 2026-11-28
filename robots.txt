@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruwan-wedisa.github.io/sitemap.xml
